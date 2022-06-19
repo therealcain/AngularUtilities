@@ -11,4 +11,4 @@ const Directives = [
   declarations: [...Directives],
   exports: [...Directives]
 })
-export class ObserversModule {}
+export class DirectivesModule {}
